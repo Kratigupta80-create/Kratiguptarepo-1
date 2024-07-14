@@ -46,4 +46,7 @@ Delect is an online platform that provides users with a wide variety of recopes 
   
 - #### Microsoft Clipchamp
   A Video creation and editing app. It allows user to add text, filters, transitions and audio to videos.
+
+  ![image](https://github.com/user-attachments/assets/25b67c5e-ad6f-46e3-9c24-4773a4fbadbf)
+
    
