@@ -52,7 +52,7 @@ Delect is an online platform that provides users with a wide variety of recopes 
 ## Screenshot of Components
   ![image](https://github.com/user-attachments/assets/921d3599-8d1b-4660-8517-82be491f7f3d)
 
-
+## Project link to Figma
 
 
 
