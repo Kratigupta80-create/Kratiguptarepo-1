@@ -1,4 +1,4 @@
-# Kratiguptarepo-1
+# Delect
 This repository consists the UI/UX project i.e. "DELECT" A Food Recipe Website. The Project has been created with the help of Figma tool.
 ![image alt](https://github.com/Kratigupta80-create/Kratiguptarepo-1/blob/522c1a153b1882f60fa96a2b82d704064a5ed8f1/Screenshot%202024-07-14%20161856.png)
 
@@ -42,10 +42,10 @@ Delect is an online platform that provides users with a wide variety of recopes 
 ## Tools Used
 
 - #### Figma 
-  An Interface design tool that is web-based, allowing for real time collaboration.
+  #### An Interface design tool that is web-based, allowing for real time collaboration.
   
 - #### Microsoft Clipchamp
-  A Video creation and editing app. It allows user to add text, filters, transitions and audio to videos.
+  #### A Video creation and editing app. It allows user to add text, filters, transitions and audio to videos.
 ## Screenshot of Delect
   ![image](https://github.com/user-attachments/assets/d5ae5531-1b1d-42a7-b52b-d23a8fb401da)
 
