@@ -49,6 +49,10 @@ Delect is an online platform that provides users with a wide variety of recopes 
 ## Screenshot of Delect
   ![image](https://github.com/user-attachments/assets/d5ae5531-1b1d-42a7-b52b-d23a8fb401da)
 
+## Screenshot of Components
+  ![image](https://github.com/user-attachments/assets/921d3599-8d1b-4660-8517-82be491f7f3d)
+
+
 
 
 
