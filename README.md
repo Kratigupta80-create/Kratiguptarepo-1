@@ -7,8 +7,8 @@ This repository consists the UI/UX project i.e. "DELECT" A Food Recipe Website. 
 Delect is an online platform that provides users with a wide variety of recopes for cooking and baking.
 ## Features of Delect
 
-1. It can filter the recipe by cooking time,difficulty level and rating. 
-2. Blog postson cooking tips, food trends and    Kitchen hacks.
+### 1. It can filter the recipe by cooking time,difficulty level and rating. 
+### 2. Blog postson cooking tips, food trends and    Kitchen hacks.
 3. Integration with Social Media like Instagram, Pinterest and Facebook, etc
 4. It has the Search Engine Optimization feature.
 
@@ -18,18 +18,18 @@ Delect is an online platform that provides users with a wide variety of recopes 
 ## Delect is used by
 
 - #### Home Cooks
-   Individuals and families looking for new meal ideas and recipes. 
+  ##### Individuals and families looking for new meal ideas and recipes. 
 - #### Health Enthusiasts
-  Users looking for recipes with detailed nutritional information (e.g., keto, vegan, gluten-free).
+ ##### Users looking for recipes with detailed nutritional information (e.g., keto, vegan, gluten-free).
 - #### Food Bloggers and Influencers
-  The Content creator looking for inspiration and new recipe ideas and the users who shar their cooking experience on social media.
+ ##### The Content creator looking for inspiration and new recipe ideas and the users who shar their cooking experience on social media.
 - #### Dietitians and Nutritionists
-  Professional providing clients with health recipes and meal plans.
+#####  Professional providing clients with health recipes and meal plans.
   
 
 
 
-## Color Used
+## Colors Used
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
