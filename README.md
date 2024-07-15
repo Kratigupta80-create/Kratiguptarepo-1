@@ -54,6 +54,6 @@ Delect is an online platform that provides users with a wide variety of recopes 
 
 ## Project link to Figma
 
-
+![image](https://www.figma.com/proto/cXWHBMSDkaR4HL4nyfbSwJ/Untitled?t=MMeFLDF6uzW3QbIo-1)
 
    
